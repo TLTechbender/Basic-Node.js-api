@@ -15,7 +15,7 @@ cd Basic-movie-api
 ```
 ##### Install dependencies
 ``` 
--npm install
+- npm install
 ```
 - Start the app
   
