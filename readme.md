@@ -13,6 +13,10 @@ git clone https://github.com/TLTechbender/Basic-Node.js-api.git
 ```
 cd Basic-movie-api
 ```
+##### Install dependencies
+``` 
+npm install
+```
 - Start the app
   
   In your terminal run npm start
